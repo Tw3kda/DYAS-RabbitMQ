@@ -1,7 +1,7 @@
 ### Taller sobre RabbitMQ
 
 ## Hecho por: Hecho por: Katherin Juliana Moreno Carvajal, Mariana Salas Gutierrez, Santiago Navarro Cuy
-##    Comando para ejecutar implementacion
+##    Comando para ejecutar implementacion en CMD
 
 ```
 mvn exec:java "-Dexec.mainClass=com.example.Implementacion.Mesero"
