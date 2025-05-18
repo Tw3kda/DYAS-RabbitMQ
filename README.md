@@ -1,5 +1,17 @@
 ### Taller sobre RabbitMQ
 
+## Hecho por: Hecho por: Katherin Juliana Moreno Carvajal, Mariana Salas Gutierrez, Santiago Navarro Cuy
+##    Comando para ejecutar implementacion
+
+```
+mvn exec:java "-Dexec.mainClass=com.example.Implementacion.Mesero"
+```
+```
+mvn exec:java "-Dexec.mainClass=com.example.Implementacion.Cocina"
+```
+
+
+
 #### Objetivo
 El objetivo de este taller es aprender a utilizar RabbitMQ para la mensajería asincrónica en aplicaciones. Implementaremos ejemplos prácticos para entender cómo enviar y recibir mensajes utilizando RabbitMQ.
 
